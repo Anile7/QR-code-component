@@ -20,7 +20,7 @@ It demonstrates how to center content using Flexbox, apply consistent spacing, a
 
 ## 🖼 Screenshot:
 
-<img src="images/screenshot.png" alt="QR code card"/>
+<img src="images/screenshot.jpeg" alt="QR code card"/>
 
 ---
 
@@ -33,7 +33,7 @@ It demonstrates how to center content using Flexbox, apply consistent spacing, a
 
 ---
 
-## Built With 🛠 
+## Technologies 🛠 
 
 - *HTML5*  
 - *CSS3* (Flexbox)
