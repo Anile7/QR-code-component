@@ -18,7 +18,7 @@ It demonstrates how to center content using Flexbox, apply consistent spacing, a
 
 ---
 
-## 🖼 Screenshot:
+## Screenshot 🖼 
 
 <img src="images/screenshot.jpeg" alt="QR code card"/>
 
